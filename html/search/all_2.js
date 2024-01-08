@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['capturedbox_0',['CapturedBox',['../class_robot_server_1_1_captured_box.html',1,'RobotServer::CapturedBox'],['../class_robot_server_1_1_captured_box.html#a3c9e048518f9c3e540d2f1d6e8d9e80b',1,'RobotServer::CapturedBox::CapturedBox()']]],
+  ['capturedbox_2ecpp_1',['CapturedBox.cpp',['../_captured_box_8cpp.html',1,'']]],
+  ['capturedbox_2eh_2',['CapturedBox.h',['../_captured_box_8h.html',1,'']]],
+  ['castlingrights_3',['CastlingRights',['../classchess_1_1_castling_rights.html',1,'chess']]],
+  ['chess960_4',['chess960',['../classchess_1_1_board.html#ad0b675bcda10fcd71a5107942253c58c',1,'chess::Board']]],
+  ['chessserver_5',['ChessServer',['../class_robot_server_1_1_chess_server.html',1,'RobotServer']]],
+  ['chessserver_2ecpp_6',['ChessServer.cpp',['../_chess_server_8cpp.html',1,'']]],
+  ['chessserver_2eh_7',['ChessServer.h',['../_chess_server_8h.html',1,'']]],
+  ['chesssocket_8',['ChessSocket',['../class_robot_server_1_1_chess_socket.html',1,'RobotServer::ChessSocket'],['../class_robot_server_1_1_chess_socket.html#a89dece5629c423c429267273dca938a8',1,'RobotServer::ChessSocket::ChessSocket()']]],
+  ['chesssocket_2ecpp_9',['ChessSocket.cpp',['../_chess_socket_8cpp.html',1,'']]],
+  ['chesssocket_2eh_10',['ChessSocket.h',['../_chess_socket_8h.html',1,'']]],
+  ['clear_11',['clear',['../structchess_1_1_movelist.html#a6e840e45bac97a8fdc03d2739a5b460f',1,'chess::Movelist']]],
+  ['clearmovelist_12',['clearMoveList',['../class_robot_server_1_1_u_c_i_agent.html#a0792f11124080036fc659858e7211f6c',1,'RobotServer::UCIAgent']]],
+  ['controller_13',['Controller',['../class_robot_server_1_1_controller.html',1,'RobotServer::Controller'],['../class_robot_server_1_1_controller.html#a27f0bc00b07b15fa48b9fa078958da50',1,'RobotServer::Controller::Controller()']]],
+  ['controller_2ecpp_14',['Controller.cpp',['../_controller_8cpp.html',1,'']]],
+  ['controller_2eh_15',['Controller.h',['../_controller_8h.html',1,'']]]
+];
