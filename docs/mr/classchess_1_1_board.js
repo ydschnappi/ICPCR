@@ -1,0 +1,27 @@
+var classchess_1_1_board =
+[
+    [ "all", "classchess_1_1_board.html#a32459300835f1222471cf68f0b8b0357", null ],
+    [ "at", "classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8", null ],
+    [ "chess960", "classchess_1_1_board.html#ad0b675bcda10fcd71a5107942253c58c", null ],
+    [ "getCastleString", "classchess_1_1_board.html#a9320cb989d66532fe66cad1a569a5255", null ],
+    [ "getFen", "classchess_1_1_board.html#ac4dc12968e9aacc6d1a08d821e8f1a19", null ],
+    [ "getHalfMoveDrawType", "classchess_1_1_board.html#a6e87aa9549f59d16de1779f4affbd328", null ],
+    [ "hash", "classchess_1_1_board.html#a301a057ffe5c9c3d20574daca05556cb", null ],
+    [ "hasNonPawnMaterial", "classchess_1_1_board.html#a52f576c9e48693ad77c5baa28d6e3e2a", null ],
+    [ "inCheck", "classchess_1_1_board.html#a379d32c91e5b5e8025386853c1c952dc", null ],
+    [ "isAttacked", "classchess_1_1_board.html#ad3fab868d3070b2b19b4e1a6ac890980", null ],
+    [ "isCapture", "classchess_1_1_board.html#ac753a3fa50a0c91c7aef01132ed0a4dd", null ],
+    [ "isGameOver", "classchess_1_1_board.html#a14f59b0815cd9272a53930833a002af8", null ],
+    [ "isHalfMoveDraw", "classchess_1_1_board.html#a08d04d59b19cff3b057043b00c5a03c2", null ],
+    [ "isInsufficientMaterial", "classchess_1_1_board.html#a1183efcc13f0732147a4cc6833c602da", null ],
+    [ "isRepetition", "classchess_1_1_board.html#a44375141bb26e377233e13e8f7ebe519", null ],
+    [ "kingSq", "classchess_1_1_board.html#ae227943b01fdd5db80b534dd02260665", null ],
+    [ "makeNullMove", "classchess_1_1_board.html#a1b13b71c51a6015a6cf79363a9feed62", null ],
+    [ "occ", "classchess_1_1_board.html#abcb0e9c4acbfca43d89c91bf2cad4ca9", null ],
+    [ "pieces", "classchess_1_1_board.html#a353cd1bc270d09c011bfabb13f29748c", null ],
+    [ "pieces", "classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9", null ],
+    [ "them", "classchess_1_1_board.html#abbad1410b6f92dabbc69ee41e7dc5cc1", null ],
+    [ "unmakeNullMove", "classchess_1_1_board.html#afd5dc059eea06ed9524513b656891366", null ],
+    [ "us", "classchess_1_1_board.html#aba53bc3c2e225cec75afa9be30a2b3b6", null ],
+    [ "zobrist", "classchess_1_1_board.html#ae0043fcf4cd3872ce619b37afbc87453", null ]
+];
